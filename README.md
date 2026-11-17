@@ -84,7 +84,7 @@ Caveats: the default embedder is a local LSA model (TF-IDF + SVD, numpy only) so
 | Endless clarifying | handover after 4 turns without budget and bedrooms | may hand over users who are just slow to answer |
 | LLM outage | any exception becomes a logged handover | |
 
-Add your own findings from live runs here (what failed, what you changed, what it cost).
+
 
 ## Known limits
 
